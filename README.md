@@ -1,1 +1,4 @@
-# ts_labs
+```bash
+cd LR_
+npm start
+```
